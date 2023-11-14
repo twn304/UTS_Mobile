@@ -66,6 +66,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -81,7 +84,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "cidr.known.project.marker": "true",
     "last_directory_selection": "C:/Users/p/Documents/HelloToast/app/src/main/java",
-    "last_opened_file_path": "C:/Users/p/Documents/HelloToast"
+    "last_opened_file_path": "C:/Users/p/Documents/HelloToast/UTS_ProgMobile"
   }
 }]]></component>
   <component name="RecentsManager">
